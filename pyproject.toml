@@ -20,5 +20,14 @@ classifiers = [
 [project.scripts]
 docsample-cli = "docsample.cli_tool:main"
 
+[project.optional-dependencies]
+docs = [
+    "Sphinx",
+    "sphinx-rtd-theme",
+    "nbsphinx",
+    "ipython",
+    "jupyter"
+]
+
 [tool.sphinx]
-project = "My Python Project"
+project = "ECMWF docsample"
