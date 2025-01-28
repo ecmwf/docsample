@@ -2,9 +2,14 @@ import argparse
 from .core import hello
 
 
-def main():
+def get_parser():
     parser = argparse.ArgumentParser(description="CLI for docsample library")
     parser.add_argument("input", type=str, help="Input string to process.")
+    return parser
+
+
+def main():
+    parser = get_parser()
     args = parser.parse_args()
     print(hello(args.input))
 
