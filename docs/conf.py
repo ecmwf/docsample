@@ -11,5 +11,9 @@ extensions = [
     'sphinx.ext.napoleon'
 ]
 exclude_patterns = []
-html_theme = 'ecmwf'
-html_theme_path = ['_themes']
+
+html_theme = "sphinx_rtd_theme"
+html_static_path = ["_static"]
+
+# html_theme = 'ecmwf'
+# html_theme_path = ['_themes']
