@@ -1,1 +1,1 @@
-from core import hello
+from docsample.core import hello

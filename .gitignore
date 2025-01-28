@@ -1,0 +1,6 @@
+
+# Ignore common files
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+docs/_build/
