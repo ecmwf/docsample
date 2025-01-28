@@ -1,4 +1,3 @@
-"""
 API Reference
 ==============
 
@@ -7,4 +6,3 @@ API Reference
 
 .. automodule:: docsample.utils
    :members:
-"""

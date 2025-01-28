@@ -1,4 +1,3 @@
-"""
 My Python Project
 =================
 
@@ -11,4 +10,3 @@ Welcome to the documentation for docsample.
    api
    usage
    noteboooks
-"""

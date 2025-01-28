@@ -1,4 +1,3 @@
-"""
 Usage Guide
 ===========
 
@@ -11,4 +10,3 @@ docsample-hello --help
 
 ### Notebook
 Open `notebooks/example_notebook.ipynb` for a demonstration.
-"""
