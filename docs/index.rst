@@ -9,4 +9,4 @@ Welcome to the documentation for docsample.
 
    api
    usage
-   noteboooks
+   notebooks/index

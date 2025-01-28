@@ -1,8 +1,8 @@
 API Reference
 ==============
 
-.. automodule:: docsample.core
-   :members:
+Core functions
+--------------
 
-.. automodule:: docsample.utils
+.. automodule:: docsample.core
    :members:
