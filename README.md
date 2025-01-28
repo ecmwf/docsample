@@ -1,4 +1,3 @@
-"""
 # My Python Project
 
 A project template containing a library, CLI, Jupyter Notebook, and Sphinx documentation.
@@ -27,4 +26,3 @@ my-cli Hello
 ### Notebook
 
 Open `notebooks/example_notebook.ipynb`.
-"""
