@@ -2,7 +2,7 @@
 My Python Project
 =================
 
-Welcome to the documentation for My Python Project.
+Welcome to the documentation for docsample.
 
 .. toctree::
    :maxdepth: 2

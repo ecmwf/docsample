@@ -6,7 +6,7 @@ Usage Guide
 Run the CLI using:
 
 ```
-python -m my_library.cli_tool <input>
+docsample-hello --help
 ```
 
 ### Notebook

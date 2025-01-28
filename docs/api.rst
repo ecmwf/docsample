@@ -2,9 +2,9 @@
 API Reference
 ==============
 
-.. automodule:: my_library.core
+.. automodule:: docsample.core
    :members:
 
-.. automodule:: my_library.utils
+.. automodule:: docsample.utils
    :members:
 """

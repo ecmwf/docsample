@@ -13,14 +13,14 @@ pip install .
 ### Library
 
 ```python
-from my_python_project.core import main_feature
-print(main_feature("Hello"))
+from docsample.core import hello
+hello("you")
 ```
 
 ### CLI
 
 ```bash
-my-cli Hello
+docsample-hello you
 ```
 
 ### Notebook

@@ -1,5 +1,5 @@
 import argparse
-from .core import hello_world
+from .core import hello
 
 
 def main():
