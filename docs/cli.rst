@@ -1,6 +1,7 @@
 Command Line Interface
 ======================
 
+.. _docsample-hello:
 docsample-hello
 ---------------
 

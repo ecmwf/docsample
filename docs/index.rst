@@ -7,6 +7,13 @@ Welcome to the documentation for docsample.
    :maxdepth: 2
    :caption: Contents:
 
-   api
-   usage
-   notebooks/index
+   intro
+   install
+   tutorials/index
+   api/index
+   cli/index
+   faq
+   contributing
+   support
+   release
+   license

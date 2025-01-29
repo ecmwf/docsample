@@ -1,4 +1,4 @@
-Notebooks
+Tutorials
 =========
 
 Below is an example of using the `docsample` library in a Jupyter Notebook.
