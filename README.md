@@ -2,6 +2,8 @@
 
 A project template containing a library, CLI, Jupyter Notebook, and Sphinx documentation.
 
+Sample documentation can be found at https://ecmwf-docsample.readthedocs.io/en/latest/
+
 ## Installation
 
 ```bash
